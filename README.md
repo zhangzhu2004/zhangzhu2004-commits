@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Zhu Zhang
 
-<!--
-**zhangzhu2004-commits/zhangzhu2004-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a student major in Electronic Information Engineering 
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laser Processing
+- Galvo Control
+- Motion Control
+- Industrial Vision
+- Autofocus System
+- AI + Engineering
+
+## Tech Stack
+
+- C#
+- Python
+- OpenCV
+- WinForms
+- Motion Control
+- Optical System
+
+## Current Projects
+
+### Laser Autofocus System
+Automatic focus system based on image sharpness evaluation.
+
+### Vision-guided Galvo Processing
+Camera-based positioning and galvo scanning control.
+
+## Goals
+
+- Build real industrial systems
+- Combine AI with optical engineering
+- Improve machine vision capability
